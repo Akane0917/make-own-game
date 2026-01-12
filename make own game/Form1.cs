@@ -43,7 +43,7 @@ namespace make_own_game
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this .Close();
+            this .Close(); 
         }
     }
     public static class TimerManeger
